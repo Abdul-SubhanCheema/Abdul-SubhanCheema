@@ -4,7 +4,7 @@
 
 I'm a passionate **Full-Stack Developer** and **Software Engineer** with expertise in modern technologies. I love creating innovative solutions and bringing ideas to life through clean, efficient code.
 
-## 🌐 Socials:
+## 🌐 Connect With Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdulsubhancheema) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdulsubhancheema) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-subhan-cheema) 
@@ -91,10 +91,13 @@ I'm a passionate **Full-Stack Developer** and **Software Engineer** with experti
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
 ---
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=Abdul-SubhanCheema&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Abdul-SubhanCheema&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-SubhanCheema&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abdul-SubhanCheema&theme=radical&no-frame=false&no-bg=true&margin-w=4)
