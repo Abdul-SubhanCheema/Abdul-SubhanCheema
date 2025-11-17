@@ -93,9 +93,28 @@ I'm a passionate **Full-Stack Developer** and **Software Engineer** with experti
 ---
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Abdul-SubhanCheema&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abdul-SubhanCheema&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-SubhanCheema&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  
+### 🏆 GitHub Profile Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul-SubhanCheema&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Abdul-SubhanCheema&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ff6b6b&currStreakLabel=38bdae)
+
+### 📈 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-SubhanCheema&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8)
+
+### 🏅 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Abdul-SubhanCheema&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+### 📊 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### 💻 GitHub Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdul-SubhanCheema&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ff6b6b&area=true&hide_border=true)
+
+</div>
 
 ---
 
